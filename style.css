@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.one {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+li {
+    display: inline;
+    color: grey;
+}
+
+li:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.box img {
+    width: 300px;
+    height: 350px;
+}
+
+.two div {
+    width: 300px;
+    display: inline-block;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: 7px;
+    text-align: center;
+}
+
+h3 {
+    background-color: black;
+    color: white;
+    display: inline;
+    padding: 2px;
+}
+
+h3:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+.two {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.three {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+h5 {
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    width: 60%;
+    padding: 5;
+}
+
+h5:hover {
+    color: red;
+    cursor: pointer;
+}
